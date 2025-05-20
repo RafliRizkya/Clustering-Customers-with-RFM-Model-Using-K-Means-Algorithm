@@ -17,14 +17,14 @@ The dataset contains 541,909 transaction records from an online retail store acr
 
 ### General Transaction Overview Dashboard
 
-![general dashboard](e%-%commerce%dashboard%overview.png)
+![general dashboard](e-commerce%20dashboard%20overview.png)
 
 This dashboard provides a high-level overview of the business's transactional performance.
 It allows decision-makers to quickly assess how the company is performing across time and regions, identify purchasing trends, and spot potential areas of growth or concern.
 
 ### RFM-Based Customer Segmentation Dashboard
 
-![customer segment dashboard](customer%segments%dashboard.png)
+![customer segment dashboard](customer%20segments%20dashboard.png)
 
 This dashboard visualizes the results of customer segmentation using RFM and K-Means clustering.
 It helps businesses understand different types of customers, tailor marketing strategies for each segment, and prioritize high-value groups for retention or reactivation campaigns.
