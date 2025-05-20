@@ -28,11 +28,3 @@ It allows decision-makers to quickly assess how the company is performing across
 
 This dashboard visualizes the results of customer segmentation using RFM and K-Means clustering.
 It helps businesses understand different types of customers, tailor marketing strategies for each segment, and prioritize high-value groups for retention or reactivation campaigns.
-
-## Summary
-Through this project:
-- I explored and cleaned large-scale transactional data.
-- Created a new RFM segmentation table based on the Kaggle dataset to evaluate customer value.
-- Applied the RFM model to assess Recency, Frequency, and Monetary metrics for each customer.
-- Implemented K-Means clustering to discover distinct customer groups.
-- Visualized insights in Power BI to support data-driven decision-making.
